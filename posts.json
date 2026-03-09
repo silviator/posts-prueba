@@ -2,7 +2,7 @@
 "posts": [
 {
 "fecha": "2026-03-09",
-"hora": "14:45",
+"hora": "15:00",
 "texto": "🌞 ¡Buenas tardes! Empezamos la semana con energía. ¡A por el lunes!",
 "imagen": "https://picsum.photos/300"
 },
@@ -44,6 +44,7 @@
 }
 ]
 }
+
 
 
 
