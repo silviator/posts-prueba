@@ -1,51 +1,43 @@
 {
   "posts": [
-    {
-      "fecha": "2026-03-11",
-      "hora": "11:00",
-      "texto": "💡 Miércoles de motivación. Recuerda por qué empezaste.",
-      "imagen": "https://picsum.photos/302"
-    },
-    {
-      "fecha": "2026-03-12",
-      "hora": "11:00",
-      "texto": "🔥 Jueves de progreso. Cada día cuenta para lograr tus metas.",
-      "imagen": "https://picsum.photos/303"
-    },
-    {
-      "fecha": "2026-03-13",
-      "hora": "11:00",
-      "texto": "🎉 ¡Viernes! Celebra tus logros de la semana y prepárate para lo que viene.",
-      "imagen": "https://picsum.photos/304"
-    },
-    {
-      "fecha": "2026-03-14",
-      "hora": "11:00",
-      "texto": "🌿 Sábado para desconectar y recargar energía.",
-      "imagen": "https://picsum.photos/305"
-    },
-    {
-      "fecha": "2026-03-15",
-      "hora": "11:00",
-      "texto": "✨ Domingo de reflexión. Planea una gran semana por delante.",
-      "imagen": "https://picsum.photos/306"
-    },
-    {
-      "fecha": "2026-03-16",
-      "hora": "11:00",
-      "texto": "🌞 Lunes de nueva semana. ¡Empezamos con energía!",
-      "imagen": "https://picsum.photos/300"
-    },
-    {
-      "fecha": "2026-03-17",
-      "hora": "11:00",
-      "texto": "🚀 Martes de productividad. ¡Sigue adelante, tú puedes!",
-      "imagen": "https://picsum.photos/307"
-    }
+    {"fecha": "2026-03-13", "hora": "10:00", "texto": "💡 Viernes - Ideas frescas para empezar el día.", "imagen": "https://picsum.photos/300"},
+    {"fecha": "2026-03-13", "hora": "11:00", "texto": "🔥 Viernes - A tope de motivación.", "imagen": "https://picsum.photos/301"},
+    {"fecha": "2026-03-13", "hora": "12:00", "texto": "🌞 Viernes - Mediodía, casi fin de semana.", "imagen": "https://picsum.photos/302"},
+    {"fecha": "2026-03-13", "hora": "13:00", "texto": "🍽️ Viernes - Pausa para comer.", "imagen": "https://picsum.photos/303"},
+    {"fecha": "2026-03-13", "hora": "14:00", "texto": "🎉 Viernes - ¡El fin de semana está cerca!", "imagen": "https://picsum.photos/304"},
+    {"fecha": "2026-03-13", "hora": "15:00", "texto": "☕ Viernes - Momento de descanso.", "imagen": "https://picsum.photos/305"},
+    {"fecha": "2026-03-13", "hora": "16:00", "texto": "🚀 Viernes - Último empujón de la semana.", "imagen": "https://picsum.photos/306"},
+    {"fecha": "2026-03-13", "hora": "17:00", "texto": "🌅 Viernes - Casi el fin de semana.", "imagen": "https://picsum.photos/307"},
+    {"fecha": "2026-03-13", "hora": "18:00", "texto": "🎊 Viernes - ¡Fin de semana!", "imagen": "https://picsum.photos/308"},
+    {"fecha": "2026-03-14", "hora": "10:00", "texto": "🌿 Sábado - Buenos días, día para desconectar.", "imagen": "https://picsum.photos/309"},
+    {"fecha": "2026-03-14", "hora": "11:00", "texto": "☀️ Sábado - Disfruta el día.", "imagen": "https://picsum.photos/310"},
+    {"fecha": "2026-03-14", "hora": "12:00", "texto": "🌸 Sábado - Mediodía tranquilo.", "imagen": "https://picsum.photos/311"},
+    {"fecha": "2026-03-14", "hora": "13:00", "texto": "🍕 Sábado - Hora de disfrutar.", "imagen": "https://picsum.photos/312"},
+    {"fecha": "2026-03-14", "hora": "14:00", "texto": "😎 Sábado - Tarde de relax.", "imagen": "https://picsum.photos/313"},
+    {"fecha": "2026-03-14", "hora": "15:00", "texto": "🎯 Sábado - Tarde tranquila.", "imagen": "https://picsum.photos/314"},
+    {"fecha": "2026-03-14", "hora": "16:00", "texto": "🎮 Sábado - Tiempo para ti.", "imagen": "https://picsum.photos/315"},
+    {"fecha": "2026-03-14", "hora": "17:00", "texto": "🌄 Sábado - Tarde de paseo.", "imagen": "https://picsum.photos/316"},
+    {"fecha": "2026-03-14", "hora": "18:00", "texto": "🌅 Sábado - Atardecer perfecto.", "imagen": "https://picsum.photos/317"},
+    {"fecha": "2026-03-15", "hora": "10:00", "texto": "✨ Domingo - Buenos días, día de reflexión.", "imagen": "https://picsum.photos/318"},
+    {"fecha": "2026-03-15", "hora": "11:00", "texto": "📚 Domingo - Aprende algo nuevo hoy.", "imagen": "https://picsum.photos/319"},
+    {"fecha": "2026-03-15", "hora": "12:00", "texto": "🌻 Domingo - Mediodía en calma.", "imagen": "https://picsum.photos/320"},
+    {"fecha": "2026-03-15", "hora": "13:00", "texto": "🍽️ Domingo - Comida en familia.", "imagen": "https://picsum.photos/321"},
+    {"fecha": "2026-03-15", "hora": "14:00", "texto": "😌 Domingo - Tarde de descanso.", "imagen": "https://picsum.photos/322"},
+    {"fecha": "2026-03-15", "hora": "15:00", "texto": "💡 Domingo - Tarde de inspiración.", "imagen": "https://picsum.photos/323"},
+    {"fecha": "2026-03-15", "hora": "16:00", "texto": "🎨 Domingo - Creatividad de tarde.", "imagen": "https://picsum.photos/324"},
+    {"fecha": "2026-03-15", "hora": "17:00", "texto": "🌙 Domingo - Preparando la semana.", "imagen": "https://picsum.photos/325"},
+    {"fecha": "2026-03-15", "hora": "18:00", "texto": "🌙 Domingo - Prepárate para la semana.", "imagen": "https://picsum.photos/326"},
+    {"fecha": "2026-03-16", "hora": "10:00", "texto": "🚀 Lunes - Buenos días, nueva semana.", "imagen": "https://picsum.photos/327"},
+    {"fecha": "2026-03-16", "hora": "11:00", "texto": "💪 Lunes - A tope de energía.", "imagen": "https://picsum.photos/328"},
+    {"fecha": "2026-03-16", "hora": "12:00", "texto": "🌞 Lunes - Mediodía productivo.", "imagen": "https://picsum.photos/329"},
+    {"fecha": "2026-03-16", "hora": "13:00", "texto": "🎯 Lunes - Enfocado en los objetivos.", "imagen": "https://picsum.photos/330"},
+    {"fecha": "2026-03-16", "hora": "14:00", "texto": "🔥 Lunes - Tarde de productividad.", "imagen": "https://picsum.photos/331"},
+    {"fecha": "2026-03-16", "hora": "15:00", "texto": "☕ Lunes - Recarga para la tarde.", "imagen": "https://picsum.photos/332"},
+    {"fecha": "2026-03-16", "hora": "16:00", "texto": "💡 Lunes - Ideas para cerrar el día.", "imagen": "https://picsum.photos/333"},
+    {"fecha": "2026-03-16", "hora": "17:00", "texto": "🌅 Lunes - Último empujón.", "imagen": "https://picsum.photos/334"},
+    {"fecha": "2026-03-16", "hora": "18:00", "texto": "🎉 Lunes - Gran primer día de semana.", "imagen": "https://picsum.photos/335"}
   ]
 }
-
-
 
 
 
